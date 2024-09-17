@@ -10,7 +10,7 @@ for (int t = 0; t < number; t++)
 
     for (int i = 0; i < number; i++)
     {
-        if (i % 2 != 0)
+        if ((i + t) % 2 == 0 )
         {
             Console.Write("\u25A0 ");
         }
