@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿//Tim Lappalainen NET2024
 Console.OutputEncoding = System.Text.Encoding.Unicode;
 Console.WriteLine("Välj en siffra");
 int number;
